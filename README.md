@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prerit-Sharma
+- 👋 Hi, I’m @Prerit-Mudgal
 - 👀 I’m interested in Coding
 -  🌱 I’m currently learning Web-Devlopment Full Stack
 - 💞️ I’m looking to collaborate on ...
