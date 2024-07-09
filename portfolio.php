@@ -641,16 +641,6 @@ footer .text span a:hover{
         <li><a href="#services">Services</a></li>
         <li><a href="#project">Projects</a></li>
         <li><a href="#contact">Contact</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropbtn">Special Services</a>
-          <div class="dropdown-content">
-            <a href="#">Website Development</a>
-            <a href="#">Graphics Designing</a>
-            <a href="#">Digital Marketing</a>
-            <a href="#">Icon Designing</a>
-            <a href="#">Photography</a>
-          </div>
-        </li>
         <div class="cancel-btn">
           <i class="fas fa-times"></i>
         </div>
@@ -826,7 +816,7 @@ footer .text span a:hover{
       <div class="social-media">
         <a href="https://github.com/Prerit-S" class="fab fa-github"></a>
         <a href="https://www.linkedin.com/in/prerit-sharma-558843136" class="fab fa-linkedin"></a>
-        <a href="#" class="fab fa-instagram"></a>
+        <a href="https://www.instagram.com/__.yours_._yashu" class="fab fa-instagram"></a>
       </div>
     </div>
   </footer>
